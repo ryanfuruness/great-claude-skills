@@ -1,0 +1,26 @@
+{
+  "name": "great-claude-skills",
+  "owner": {
+    "name": "Ryan Furuness"
+  },
+  "metadata": {
+    "description": "Hand-written Agent Skills for Claude that are worth reusing.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "skill-writing",
+      "description": "How to write a skill so it carries the thinking that produced a good result rather than the residue of the session it came from.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/skill-writing"]
+    },
+    {
+      "name": "chrome-walkthrough",
+      "description": "Teach someone to do a task in a web app with a guided, auto-advancing walkthrough overlaid on the live page in Chrome.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/chrome-walkthrough"]
+    }
+  ]
+}
