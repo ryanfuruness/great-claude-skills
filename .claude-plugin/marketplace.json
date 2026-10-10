@@ -21,6 +21,13 @@
       "source": "./",
       "strict": false,
       "skills": ["./skills/chrome-walkthrough"]
+    },
+    {
+      "name": "human-handoff",
+      "description": "A final pass before handing AI-generated documents, decks or reports to people: read it as a first-time reader would and reshape the form so they can take it in.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/human-handoff"]
     }
   ]
 }
