@@ -13,28 +13,45 @@
       "description": "How to write a skill so it carries the thinking that produced a good result rather than the residue of the session it came from.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/skill-writing"]
+      "skills": [
+        "./skills/skill-writing"
+      ]
     },
     {
       "name": "chrome-walkthrough",
       "description": "Teach someone to do a task in a web app with a guided, auto-advancing walkthrough overlaid on the live page in Chrome.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/chrome-walkthrough"]
+      "skills": [
+        "./skills/chrome-walkthrough"
+      ]
     },
     {
       "name": "human-handoff",
-      "description": "Turn AI-generated documents, decks and reports into something people can take in: write from a brief, read as a first-time reader would, cut what this reader would not miss, and make every sentence sound said.",
+      "description": "Make settled thinking land with people: when work made in a conversation is about to go out, read it as a first-time reader would and fix reading order, load, sentences and visuals, handing back finished work.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/human-handoff"]
+      "skills": [
+        "./skills/human-handoff"
+      ]
     },
     {
-      "name": "north-star-review",
-      "description": "Review a deck, doc, design or plan against a north star: a fresh agent sets what good looks like before the artifact can shape it, then the review checks against it, including what is missing.",
+      "name": "north-star",
+      "description": "Set the standard for what good looks like from a one-line situation, before the material can shape it, then use it as the target when producing and the yardstick when reviewing, so omissions surface alongside flaws.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/north-star-review"]
+      "skills": [
+        "./skills/north-star"
+      ]
+    },
+    {
+      "name": "clean-final-pass",
+      "description": "Produce a final artifact from a chat full of context without carrying the conversation's residue: write it fresh from a purpose-led brief of what was decided, then check it for fidelity in both directions.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/clean-final-pass"
+      ]
     }
   ]
 }

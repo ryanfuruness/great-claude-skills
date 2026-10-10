@@ -1,0 +1,23 @@
+Skill: north-star
+
+Purpose: anchor any judgement of an artifact, or the production of one, to a standard of what good looks like that was set before the material could shape it.
+
+The raw ideas, each with why it holds:
+
+- The problem. Whatever is in front of you sets the frame. A review that starts from the artifact critiques what is there and how well each part is done, adopts the artifact's own framing, and rarely notices what is missing, because an absence is not salient. Producing something straight from a pile of material has the same flaw: the material dictates the shape. Committing to a standard before exposure is what breaks this.
+
+- The core. The standard is written by someone who has not seen the material, from the situation alone: what kind of thing this is, who it is for, and what it has to achieve. Never the content, because content pulls a standard toward what the material already does, and then it stops being a standard. Keep the situation as short as possible, a single line and often less, such as "a two-page memo asking a leadership team to choose between two vendors" or simply "an enterprise pitch deck to a government client". Brevity is what makes the standard work. The general principles an expert at this kind of work carries are the point: they are robust, and they are what expose a missing piece. The particulars of this case get applied when judging against the standard, not built into it, and every detail added to the situation is a step toward the content. The test for whether a detail belongs: it does only if it would also be true of a different artifact made for the same purpose, and even then, leave it out unless the standard would be wrong without it. Take the situation from the request and what you know of the context rather than from the artifact, which would carry its framing in. The situation is one line, written by whoever invokes the standard; statements about what the artifact must do, stress or avoid are decisions that belong in a brief, not the situation, and they anchor the standard just as content does.
+
+- Who writes it. Once you have seen the material you cannot unsee it, so a fresh agent writes the standard; that is what lets this work even after you have already looked. Without one, write it before looking.
+
+- Ask the way you would ask an expert. The question to the fresh agent is what someone excellent at this kind of work holds in their head to steer it to success: first the true general principles and fundamental checks, the north stars, and then the specifics of the form, such as the structure, sections and storyline a strong example follows, and what such pieces commonly leave out, since omissions are exactly what an unanchored judgement misses. An illustration of the shape of that ask: "What are the general best practices for a pitch deck pitching an enterprise solution to a potential client? I'm after the true general principles, what an expert would have in their head to steer to success, and then the specifics of structure, sections and story." The answer comes back short and ranked by how much each criterion matters to the purpose, so the important ones are not drowned.
+
+- One standard serves twice. Before something is produced, it is the target; afterwards, the same standard is the yardstick. That is a spec and its test, not circularity: the test exists to catch where the target was missed.
+
+- Judging against it. Go criterion by criterion rather than walking the artifact and reacting to it, and treat an absence as a finding on equal footing with a flaw. Then read the artifact once on its own terms for what no standard anticipated, and keep those findings distinct from the ones the standard supports. What you know about the people involved shapes how findings are framed, not which criteria apply.
+
+- Its limits. Because it has never seen the content, it cannot say whether particular content survived or was rendered faithfully; that needs someone who holds the content. It is strongest on structure and on what is expected or missing, and weak on specific phrasing, which it never sees.
+
+- Match the effort to the stakes. For something small, a few lines of standard written before looking are enough; what matters is the order.
+
+- Description, to use as written: Use before drafting a substantial artifact such as a deck, proposal, PRD, report or plan, and when reviewing or giving feedback on one, especially someone else's, such as "make a pitch deck for…" or "what do you think of this deck?". Not for quick messages. It sets the standard from a one-line situation, written by someone who has not seen the material: the target before writing and the yardstick after, so what is missing shows up as clearly as what is wrong.
