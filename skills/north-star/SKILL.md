@@ -1,6 +1,6 @@
 ---
 name: north-star
-description: Use before drafting a substantial artifact such as a deck, proposal, PRD, report or plan, and when reviewing or giving feedback on one, especially someone else's, such as "make a pitch deck for…" or "what do you think of this deck?". Not for quick messages. It sets the standard from a one-line situation, written by someone who has not seen the material: the target before writing and the yardstick after, so what is missing shows up as clearly as what is wrong.
+description: "Use before drafting a substantial artifact such as a deck, proposal, PRD, report or plan, and when reviewing or giving feedback on one, especially someone else's, such as \"make a pitch deck for…\" or \"what do you think of this deck?\". Not for quick messages. It sets the standard from a one-line situation, written by someone who has not seen the material: the target before writing and the yardstick after, so what is missing shows up as clearly as what is wrong."
 ---
 
 # North star

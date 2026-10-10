@@ -1,6 +1,6 @@
 ---
 name: human-handoff
-description: Use when a document, deck, page, report or substantial email made in this conversation is about to go to people, whether or not the request says so, such as "get this ready for the team" or "check this before I send it". Not for quick replies, small edits, or feedback on someone else's work. It decides how the piece lands: reading order, how much each section carries, sentences and visuals, judged as a first-time reader meets them.
+description: "Use when a document, deck, page, report or substantial email made in this conversation is about to go to people, whether or not the request says so, such as \"get this ready for the team\" or \"check this before I send it\". Not for quick replies, small edits, or feedback on someone else's work. It decides how the piece lands: reading order, how much each section carries, sentences and visuals, judged as a first-time reader meets them."
 ---
 
 # Human handoff

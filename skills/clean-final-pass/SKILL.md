@@ -1,6 +1,6 @@
 ---
 name: clean-final-pass
-description: Use when a document, deck, email, spec, prompt or skill is being produced from a chat that holds a lot of context, whether long, iterative or spanning several topics, such as "write up the final spec" or "make a deck from what we covered". Not for quick messages or small edits to existing work. It decides what goes in: the content is written fresh from a brief of what was decided, so the chat's corrections, detours and order don't carry over.
+description: "Use when a document, deck, email, spec, prompt or skill is being produced from a chat that holds a lot of context, whether long, iterative or spanning several topics, such as \"write up the final spec\" or \"make a deck from what we covered\". Not for quick messages or small edits to existing work. It decides what goes in: the content is written fresh from a brief of what was decided, so the chat's corrections, detours and order don't carry over."
 ---
 
 # Clean final pass
