@@ -24,7 +24,7 @@
     },
     {
       "name": "human-handoff",
-      "description": "A final pass before handing AI-generated documents, decks or reports to people: read it as a first-time reader would and reshape the form so they can take it in.",
+      "description": "Turn AI-generated documents, decks and reports into something people can take in: write from a brief, read as a first-time reader would, cut what this reader would not miss, and make every sentence sound said.",
       "source": "./",
       "strict": false,
       "skills": ["./skills/human-handoff"]
