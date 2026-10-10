@@ -28,6 +28,13 @@
       "source": "./",
       "strict": false,
       "skills": ["./skills/human-handoff"]
+    },
+    {
+      "name": "north-star-review",
+      "description": "Review a deck, doc, design or plan against a north star: a fresh agent sets what good looks like before the artifact can shape it, then the review checks against it, including what is missing.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/north-star-review"]
     }
   ]
 }
